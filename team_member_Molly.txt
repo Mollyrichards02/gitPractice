@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 amy editing!!!!!!!!!!!!!!!!!Why did the computer go to the doctor? Because it had a virus!
+=======
+Why did the computer go to the doctor? Because it had a virus!
+/////Adding pun
+>>>>>>> d7951476955b6f83dce7ee49b52c1d8cc35d84df

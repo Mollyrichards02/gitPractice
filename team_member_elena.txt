@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 What did the grape do when it got stepped on? Nothing, it just let out a little wine!
 
+Why did is the green grape unhappy? Because it is always green with envy.
 
+I’m reading a book on anti-gravity. It’s impossible to put down!
+>>>>>>> 5b7fe8861503d98aa7c6de4724ca0acad55c9aa7
